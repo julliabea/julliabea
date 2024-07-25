@@ -1,7 +1,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/109460961/225250221-5ae7771f-84bc-4312-a7dd-0be51b48cb42.png">
 
 ## Olá! Eu sou a Jullia Beatriz
-Tenho 23 anos, moro em Resende/RJ e atualmente estou cursando faculdade de Análise e Desenvolvimento de Sistemas e me aventurando pelo mundo de programação!
+Tenho 23 anos, moro em Resende/RJ e atualmente estou cursando Análise e Desenvolvimento de Sistemas e me aventurando pelo mundo de programação!
 <hr>
 
 ### Linguagens:
